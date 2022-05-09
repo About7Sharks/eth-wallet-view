@@ -1,5 +1,5 @@
 # web3wallet
-
+> Live site deprecated: Update the rpc url if you wish to use.
 ## Project setup
 ```
 yarn install
